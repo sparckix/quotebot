@@ -1,0 +1,9 @@
+{
+    "name": "slack-quotebot",
+    "description": "A wonderful quote bot for Slack",
+    "keywords": ["slack", "quotebot", "bot"],   
+    "repository": "https://github.com/sparckix/quotebot",
+    "addons": [
+        "rediscloud:30"
+    ]
+}
